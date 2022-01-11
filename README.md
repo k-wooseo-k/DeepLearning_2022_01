@@ -1,4 +1,4 @@
-# Machine-Learning
+# Deep-Learning
 
 ## RPA를 위한 인공지능 과정
 
